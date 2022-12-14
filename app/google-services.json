@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370241870340",
+    "project_id": "chatapp83-634e4",
+    "storage_bucket": "chatapp83-634e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370241870340:android:84433372d55724bc323351",
+        "android_client_info": {
+          "package_name": "imt.respect.chatapp8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370241870340-20rkf0ngp8b0j5vaif4nidbn9ab2fr8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39DIuz6XR1Cg1zuw9_5eH7bqfG8a-KtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370241870340-20rkf0ngp8b0j5vaif4nidbn9ab2fr8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
